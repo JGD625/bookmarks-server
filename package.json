@@ -1,6 +1,6 @@
 {
   "name": "bookmarks-server",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "src/server.js",
   "scripts": {
@@ -11,9 +11,6 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "engines": {
-    "node": "10.15.3"
-  },
   "author": "JDB",
   "license": "ISC",
   "dependencies": {
